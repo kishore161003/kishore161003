@@ -1,9 +1,9 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)]
+[![MasterHead](https://devtechnosys.com/insights/wp-content/uploads/2020/05/When-Should-You-Hire-a-Full-Stack-Developer.gif)]
 
 <h1 align="center">Hi 👋 there , I'm Kishore Kumara pandian P</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<img src="https://devtechnosys.com/insights/wp-content/uploads/2020/05/When-Should-You-Hire-a-Full-Stack-Developer.gif" width="400" align="right" alt="fullStackDeveloper">
+<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="400" align="right" alt="fullStackDeveloper">
 
 - 🌱 I’m currently learning **NextJS , ReactNative**
 
