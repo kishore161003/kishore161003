@@ -1,4 +1,3 @@
-<img src="https://github.com/kishore161003/kishore161003/assets/116169099/24a2d8fe-11a5-4a18-8726-953152a96e99" >
 
 
 <h1 align="center">Hi 👋 there , I'm Kishore Kumara pandian P</h1>
