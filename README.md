@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋 there , I'm Kishore Kumara pandian P</h1>
 <h3 align="left">A passionate FullStack developer from India</h3>
+ <img width="12" align="center" />
 
 <img src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" width="400" height="400" align="right" alt="fullStackDeveloper">
 
