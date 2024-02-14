@@ -4,7 +4,8 @@
 <h3 align="left">A passionate FullStack developer from India</h3>
  <img width="12" align="center" />
 
-<img src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" width="400" height="400" align="right" alt="fullStackDeveloper">
+<img src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" width="300" height="300" align="right" alt="fullStackDeveloper">
+ <img width="12" align="bottom" />
 
 - 🌱 I’m currently learning **NextJS , ReactNative and MERN Stack**
 
