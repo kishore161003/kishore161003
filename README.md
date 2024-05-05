@@ -54,10 +54,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=babel" height="30" alt="python logo"  />
   <img width="12" />
-
    <img src="https://skillicons.dev/icons?i=github" height="30" alt="python logo"  />
   <img width="12" />
-
    <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="python logo"  />
   <img width="12" />
    <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="python logo"  />
@@ -70,13 +68,13 @@
   <img width="12" />
    <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="python logo"  />
+  <img width="12" />
 </div>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-<img src="https://randommeme-five.vercel.app/" />
 
 
 <h2> GitHub Stats</h2>
