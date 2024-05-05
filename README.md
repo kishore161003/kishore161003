@@ -26,6 +26,10 @@
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <div align="left">
+ <img src="https://skillicons.dev/icons?i=java" height="30" alt="javascript logo"  />
+  <img width="12" />
+ <img src="https://skillicons.dev/icons?i=python" height="30" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
@@ -46,9 +50,25 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=babel" height="30" alt="python logo"  />
+  <img width="12" />
+
+   <img src="https://skillicons.dev/icons?i=github" height="30" alt="python logo"  />
+  <img width="12" />
+
+   <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="python logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="python logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=npm" height="30" alt="python logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="python logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=spring" height="30" alt="python logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" alt="python logo"  />
   <img width="12" />
 </div>
 
