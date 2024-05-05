@@ -11,9 +11,10 @@
 
 - 📫 How to reach me **kishorekumarapandian@gmail.com**
 
-- 📄 Know about my experiences [https://kishorekpresume01.tiiny.site](https://kishorekpresume01.tiiny.site)
+- 📄 Know about my experiences [Resume](https://github.com/kishore161003/kishore161003/files/15212733/CurrentResume.pdf)
 
 - ⚡ Fun fact **I want to Change My LifeStyle and Currently working on it**
+
 
 <h3 align="left" >Connect with me:</h3>
 <p align="left">
